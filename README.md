@@ -1,4 +1,4 @@
 # Leon-Project
 
 
-#### Smplie HTML,CSS project
+#### Simple HTML,CSS project
